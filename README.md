@@ -28,13 +28,6 @@ I love the concept of social media, but hate how it is used and abused in today'
       </a>
     </td>
     <td valign="top" width="20%">
-      <h3>Frontend</h3>
-        <div align="center">  
-          <img src="https://skillicons.dev/icons?perline=4&i=html,css,js,tailwind,ts,svelte" /> 
-        </div>
-      </a>
-    </td>
-    <td valign="top" width="20%">
       <h3>VCS</h3>
         <div align="center">
           <img src="https://skillicons.dev/icons?perline=4&i=git,github,githubactions" /> 

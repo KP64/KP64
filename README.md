@@ -46,9 +46,6 @@ I love the concept of social media, but hate how it is used and abused in today'
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="KP64's GitHub stats" src="https://github-readme-stats-blond-tau.vercel.app/api?username=KP64&show_icons=true&theme=catppuccin_mocha" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" alt="KP64's Top Langs" src="https://github-readme-stats-blond-tau.vercel.app/api/top-langs/?username=KP64&layout=compact&theme=catppuccin_mocha" />
-</a>
+![KP64's Github stats](./profile/stats.svg)
+
+![KP64's Top Langs](./profile/top-langs.svg)

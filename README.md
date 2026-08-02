@@ -16,12 +16,12 @@ I love the concept of social media, but hate how it is used and abused in today'
     <td valign="top" width="20%">
       <h3>OS</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?perline=4&i=windows,linux,nix,raspberrypi,arch" /> 
+          <img src="https://skillicons.dev/icons?perline=4&i=linux,nix,raspberrypi,arch" /> 
         </div>
       </a>
     </td>
     <td valign="top" width="20%">
-      <h3>Prog Langs</h3>
+      <h3>Languages</h3>
         <div align="center">
          <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,js,ts,&perline=4" /> 
         </div>

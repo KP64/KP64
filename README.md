@@ -9,8 +9,6 @@ I love the concept of social media, but hate how it is used and abused in today'
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" /> Skill Set:
 
-<!-- TODO: Icons: Forgejo, Nushell -->
-
 <table>
   <tr>
     <td valign="top" width="20%">
@@ -37,7 +35,7 @@ I love the concept of social media, but hate how it is used and abused in today'
     <td valign="top" width="20%">
       <h3>DevOps</h3>
         <div align="center">
-          <img src="https://skillicons.dev/icons?perline=4&i=nix,docker,kubernetes,terraform,githubactions,grafana,prometheus" />
+          <img src="https://skillicons.dev/icons?perline=4&i=nix,docker,kubernetes,terraform,githubactions" />
         </div>
       </a>
     </td>
